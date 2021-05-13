@@ -1,5 +1,7 @@
 # README
 
+Contact: Laura Cooper, camdu@warwuick.ac.uk
+
 ## CropMerge
 
 Pull regions of interest from images on OMERO.\
