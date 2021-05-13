@@ -21,12 +21,12 @@ pip install imread
 
 ### To run:
 
-Edit the parameters at the top of the file and then
+Edit the parameters at the top of the file and then\
 For one image and one ROI
 ```
 python CropMerge_SingleImageAndRoi.py
 ```
-For one dataset
+or for one dataset
 ```
 python CropMerge_SingleImageAndRoi.py
 ```
