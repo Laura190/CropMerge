@@ -24,7 +24,7 @@ username='username'
 password='password'
 server='server.name'
 owner_id='0000'
-datasetID=00000
+imageID=00000
 
 #Image Paramters
 width=50
